@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Story</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 900px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #333;
+            text-align: center;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>My Story</h1>
+        <p>
+            Dear reader,
+            <br><br>
+            On March 6th, 2025, my life reached a breaking point. It wasn’t just one thing that set me off, but a series of events that felt too heavy to carry anymore. The bullying at school had been going on for months, but that day was different. It wasn’t just words anymore; they started throwing things at me in class. It was during English class, my least favorite class because I knew what would happen every day. There were four kids who made it their mission to harass me. That day, they crossed the line, and I couldn’t hold it in anymore. 
+            <br><br>
+            I felt the anger building up inside me like a ticking time bomb. My Intermittent Explosive Disorder (IED) was triggered, and without thinking, I threw a desk at one of the kids. The room went silent, and I was sent to the office immediately. I didn’t care. I didn’t care about the consequences, and I didn’t care about anything anymore. I was numb, like I was disconnected from my own body. I tried to act normal when I returned to class as if nothing had happened, but inside, I felt like I was drowning. That day broke me.
+            <br><br>
+            The next few hours were filled with anxiety. That same day, something happened online that just made everything worse. I won’t go into the details, but it made me feel like everyone was against me. It made me feel like I was being judged, misunderstood, and even hated. The things I saw online hurt more than any words from the bullies at school. And even though I was overwhelmed with pain, nobody checked in on me. Nobody asked how I was doing. Nobody even noticed that I was falling apart. 
+            <br><br>
+            I had been carrying so much inside me for so long, but when I looked around, it felt like nobody cared. I wasn’t the one who reached out to others, even though I did, always checking on my friends, always trying to be there for them. I’d message them, care about their problems, listen to their pain, but in return, I’d be met with silence or distant responses. Nobody checked in on me. Nobody cared enough to ask how I was doing or what I was going through. I felt invisible, like I didn’t matter.
+            <br><br>
+            It was the same every day. No one knew how hard I was struggling, and every time I faked a smile or said I was fine, I was lying. It was so easy to put on a mask and pretend, but no one noticed how exhausted I was from pretending. It was exhausting to hide the pain, to keep everything inside, and yet, nobody seemed to care enough to notice the signs. 
+            <br><br>
+            On March 7th, 2025, I couldn’t take it anymore. I reached a breaking point. The constant bullying, the online incident, the isolation, and the loneliness all became too much to bear. I tried to end my life. I thought that maybe, just maybe, it would be easier if I wasn’t here anymore. I thought that maybe the world would be better off without me. But as much as I wanted to go through with it, something stopped me. I don’t know what it was—maybe it was the thought of one person who would care, maybe it was the realization that I made a promise to stay alive no matter how bad things got—but I didn’t go through with it. 
+            <br><br>
+            But even though I didn’t end my life, I still felt broken. The pain didn’t go away. The fear didn’t go away. I still felt trapped. After everything that happened, I started isolating myself even more. I couldn’t trust anyone anymore. I started to fear even my best friend. I feared that she might hurt me, that she might abandon me, or that she might turn against me. I started worrying that everyone would turn on me eventually. I was scared of everyone.
+            <br><br>
+            I tried to be there for my best friend, always trying to support her, but I felt like I overdid it. I cared too much, and sometimes I felt like I was suffocating her. I know she values what I do for her, but I also know I make mistakes. I sometimes try too hard to protect her, to do everything for her, and it just ends up causing more harm than good. But no one understands. No one sees the effort I put in. No one sees the self-doubt that plagues me. All I ever want is to be there for her, but I don’t know how to find the right balance.
+            <br><br>
+            I never told her what was going on with me. I couldn’t bring myself to. She’s going through so much herself, and I didn’t want to add more weight to her shoulders. But now, looking back, I realize that I’ve been carrying this weight alone. I’ve been bottling up my feelings, pretending everything is okay, while I’m falling apart inside. I’ve isolated myself from everyone—my family, my friends, even my own parents—because I didn’t want to be a burden to anyone. But it’s so hard to keep pretending.
+            <br><br>
+            It’s so easy to say, “I’m fine,” to wear a fake smile, to say you’re doing well when inside, you're breaking. It’s so easy to lie and say everything is okay when it's not. But nobody checks in. Nobody asks how I’m doing. It feels like I’m invisible, like my pain doesn’t matter. Nobody sees the scars that aren’t visible, the emotional wounds that are so deep. 
+            <br><br>
+            I’m sharing this story because I don’t want to hide anymore. I don’t want to pretend that everything is okay when it’s not. I want people to understand that it’s okay to not be okay. It’s okay to ask for help, to reach out, and to admit that you're struggling. I want people to know that mental health is real, and just because someone doesn’t show it on the outside, doesn’t mean they’re fine. I’ve been hiding for so long, but I can’t hide anymore. I need someone to hear me, to understand me, and to stop making me feel like I’m invisible.
+            <br><br>
+            So if you’re reading this, thank you. Thank you for hearing my story. Thank you for understanding that sometimes, the person who smiles the most is the one who is hurting the most. I want to remind you that if you know someone who’s struggling, don’t wait for them to reach out. Check on them. Ask how they’re doing. Don’t let them suffer alone like I did. 
+            <br><br>
+            With sincerity,
+            <br>
+            Tharhat
+        </p>
+    </div>
+
+</body>
+</html>
